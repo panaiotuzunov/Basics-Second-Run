@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\06.CircleAreaAndPerimeter\bin\Debug\06.CircleAreaAndPerimeter.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\06.CircleAreaAndPerimeter\bin\Debug\06.CircleAreaAndPerimeter.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\06.CircleAreaAndPerimeter\bin\Debug\06.CircleAreaAndPerimeter.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\06.CircleAreaAndPerimeter\obj\Debug\06.CircleAreaAndPerimeter.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\06.CircleAreaAndPerimeter\obj\Debug\06.CircleAreaAndPerimeter.pdb

@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCm\bin\Debug\InchesToCm.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCm\bin\Debug\InchesToCm.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCm\bin\Debug\InchesToCm.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCm\obj\Debug\InchesToCm.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCm\obj\Debug\InchesToCm.pdb

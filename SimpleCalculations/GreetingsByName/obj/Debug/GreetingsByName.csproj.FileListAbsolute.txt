@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\GreetingsByName\obj\Debug\GreetingsByName.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\GreetingsByName\obj\Debug\GreetingsByName.pdb

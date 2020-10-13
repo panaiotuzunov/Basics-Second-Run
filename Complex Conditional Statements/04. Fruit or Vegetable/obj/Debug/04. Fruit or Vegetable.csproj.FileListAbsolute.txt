@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

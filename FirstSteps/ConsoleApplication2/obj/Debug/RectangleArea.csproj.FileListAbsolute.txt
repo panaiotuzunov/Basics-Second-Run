@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\FirstSteps\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\FirstSteps\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\FirstSteps\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\FirstSteps\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\FirstSteps\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

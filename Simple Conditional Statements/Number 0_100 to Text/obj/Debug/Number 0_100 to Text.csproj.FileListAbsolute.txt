@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 0_100 to Text\bin\Debug\Number 0_100 to Text.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 0_100 to Text\bin\Debug\Number 0_100 to Text.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 0_100 to Text\bin\Debug\Number 0_100 to Text.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 0_100 to Text\obj\Debug\Number 0_100 to Text.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 0_100 to Text\obj\Debug\Number 0_100 to Text.pdb

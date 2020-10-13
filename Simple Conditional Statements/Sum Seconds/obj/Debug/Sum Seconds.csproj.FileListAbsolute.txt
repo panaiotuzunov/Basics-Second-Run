@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.pdb

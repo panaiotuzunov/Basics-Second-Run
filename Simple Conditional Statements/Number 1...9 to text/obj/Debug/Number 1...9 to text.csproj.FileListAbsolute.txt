@@ -1,0 +1,6 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\bin\Debug\Number_1._._._9_to_text.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\bin\Debug\Number_1._._._9_to_text.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\bin\Debug\Number_1._._._9_to_text.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\obj\Debug\Number 1...9 to text.csprojResolveAssemblyReference.cache
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\obj\Debug\Number_1._._._9_to_text.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Number 1...9 to text\obj\Debug\Number_1._._._9_to_text.pdb

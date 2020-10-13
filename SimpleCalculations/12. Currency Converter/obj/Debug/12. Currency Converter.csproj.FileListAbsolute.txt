@@ -1,0 +1,6 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\bin\Debug\_12.Currency_Converter.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\bin\Debug\_12.Currency_Converter.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\bin\Debug\_12.Currency_Converter.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\obj\Debug\12. Currency Converter.csprojResolveAssemblyReference.cache
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\obj\Debug\_12.Currency_Converter.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\12. Currency Converter\obj\Debug\_12.Currency_Converter.pdb

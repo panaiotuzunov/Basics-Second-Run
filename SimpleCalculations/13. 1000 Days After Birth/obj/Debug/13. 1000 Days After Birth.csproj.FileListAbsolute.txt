@@ -1,0 +1,6 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.csprojResolveAssemblyReference.cache
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.pdb

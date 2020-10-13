@@ -1,0 +1,6 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csprojResolveAssemblyReference.cache
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

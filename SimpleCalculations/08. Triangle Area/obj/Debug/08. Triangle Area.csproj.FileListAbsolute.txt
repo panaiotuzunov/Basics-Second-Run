@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\08. Triangle Area\bin\Debug\_08.Triangle_Area.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\08. Triangle Area\bin\Debug\_08.Triangle_Area.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\08. Triangle Area\obj\Debug\_08.Triangle_Area.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\SimpleCalculations\08. Triangle Area\obj\Debug\_08.Triangle_Area.pdb

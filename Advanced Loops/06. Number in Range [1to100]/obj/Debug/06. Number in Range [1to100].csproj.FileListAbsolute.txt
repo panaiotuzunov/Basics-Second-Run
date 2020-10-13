@@ -1,0 +1,5 @@
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Advanced Loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.exe.config
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Advanced Loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.exe
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Advanced Loops\06. Number in Range [1to100]\bin\Debug\_06.Number_in_Range__1to100_.pdb
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Advanced Loops\06. Number in Range [1to100]\obj\Debug\_06.Number_in_Range__1to100_.exe
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Advanced Loops\06. Number in Range [1to100]\obj\Debug\_06.Number_in_Range__1to100_.pdb

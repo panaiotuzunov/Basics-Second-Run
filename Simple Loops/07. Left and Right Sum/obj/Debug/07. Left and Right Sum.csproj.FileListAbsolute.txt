@@ -1,0 +1,5 @@
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\Panaiot Uzunov\Documents\Visual Studio 2015\Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

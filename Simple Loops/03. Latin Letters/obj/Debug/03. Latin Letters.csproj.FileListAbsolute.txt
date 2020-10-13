@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

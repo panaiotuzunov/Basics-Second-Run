@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.pdb
