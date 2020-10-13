@@ -1,0 +1,5 @@
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe.config
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.pdb
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.exe
+c:\users\panaiot uzunov\documents\visual studio 2015\Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.pdb
